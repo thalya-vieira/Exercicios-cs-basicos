@@ -1,0 +1,15 @@
+/home/hadassa/Documentos/exercicios-c#/notaAlauno/obj/Debug/net8.0/notaAlauno.GeneratedMSBuildEditorConfig.editorconfig
+/home/hadassa/Documentos/exercicios-c#/notaAlauno/obj/Debug/net8.0/notaAlauno.AssemblyInfoInputs.cache
+/home/hadassa/Documentos/exercicios-c#/notaAlauno/obj/Debug/net8.0/notaAlauno.AssemblyInfo.cs
+/home/hadassa/Documentos/exercicios-c#/notaAlauno/obj/Debug/net8.0/notaAlauno.csproj.CoreCompileInputs.cache
+/home/hadassa/Documentos/exercicios-c#/notaAlauno/obj/Debug/net8.0/notaAlauno.sourcelink.json
+/home/hadassa/Documentos/exercicios-c#/notaAlauno/bin/Debug/net8.0/notaAlauno
+/home/hadassa/Documentos/exercicios-c#/notaAlauno/bin/Debug/net8.0/notaAlauno.deps.json
+/home/hadassa/Documentos/exercicios-c#/notaAlauno/bin/Debug/net8.0/notaAlauno.runtimeconfig.json
+/home/hadassa/Documentos/exercicios-c#/notaAlauno/bin/Debug/net8.0/notaAlauno.dll
+/home/hadassa/Documentos/exercicios-c#/notaAlauno/bin/Debug/net8.0/notaAlauno.pdb
+/home/hadassa/Documentos/exercicios-c#/notaAlauno/obj/Debug/net8.0/notaAlauno.dll
+/home/hadassa/Documentos/exercicios-c#/notaAlauno/obj/Debug/net8.0/refint/notaAlauno.dll
+/home/hadassa/Documentos/exercicios-c#/notaAlauno/obj/Debug/net8.0/notaAlauno.pdb
+/home/hadassa/Documentos/exercicios-c#/notaAlauno/obj/Debug/net8.0/notaAlauno.genruntimeconfig.cache
+/home/hadassa/Documentos/exercicios-c#/notaAlauno/obj/Debug/net8.0/ref/notaAlauno.dll
