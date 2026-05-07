@@ -1,0 +1,15 @@
+/home/hadassa/Documentos/exercicios-c#/numPositivoNegativo/obj/Debug/net8.0/numPositivoNegativo.GeneratedMSBuildEditorConfig.editorconfig
+/home/hadassa/Documentos/exercicios-c#/numPositivoNegativo/obj/Debug/net8.0/numPositivoNegativo.AssemblyInfoInputs.cache
+/home/hadassa/Documentos/exercicios-c#/numPositivoNegativo/obj/Debug/net8.0/numPositivoNegativo.AssemblyInfo.cs
+/home/hadassa/Documentos/exercicios-c#/numPositivoNegativo/obj/Debug/net8.0/numPositivoNegativo.csproj.CoreCompileInputs.cache
+/home/hadassa/Documentos/exercicios-c#/numPositivoNegativo/obj/Debug/net8.0/numPositivoNegativo.sourcelink.json
+/home/hadassa/Documentos/exercicios-c#/numPositivoNegativo/bin/Debug/net8.0/numPositivoNegativo
+/home/hadassa/Documentos/exercicios-c#/numPositivoNegativo/bin/Debug/net8.0/numPositivoNegativo.deps.json
+/home/hadassa/Documentos/exercicios-c#/numPositivoNegativo/bin/Debug/net8.0/numPositivoNegativo.runtimeconfig.json
+/home/hadassa/Documentos/exercicios-c#/numPositivoNegativo/bin/Debug/net8.0/numPositivoNegativo.dll
+/home/hadassa/Documentos/exercicios-c#/numPositivoNegativo/bin/Debug/net8.0/numPositivoNegativo.pdb
+/home/hadassa/Documentos/exercicios-c#/numPositivoNegativo/obj/Debug/net8.0/numPositivoNegativo.dll
+/home/hadassa/Documentos/exercicios-c#/numPositivoNegativo/obj/Debug/net8.0/refint/numPositivoNegativo.dll
+/home/hadassa/Documentos/exercicios-c#/numPositivoNegativo/obj/Debug/net8.0/numPositivoNegativo.pdb
+/home/hadassa/Documentos/exercicios-c#/numPositivoNegativo/obj/Debug/net8.0/numPositivoNegativo.genruntimeconfig.cache
+/home/hadassa/Documentos/exercicios-c#/numPositivoNegativo/obj/Debug/net8.0/ref/numPositivoNegativo.dll
