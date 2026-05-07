@@ -1,0 +1,15 @@
+/home/hadassa/Documentos/exercicios-c#/aprovacaoAluno/bin/Debug/net8.0/aprovacaoAluno
+/home/hadassa/Documentos/exercicios-c#/aprovacaoAluno/bin/Debug/net8.0/aprovacaoAluno.deps.json
+/home/hadassa/Documentos/exercicios-c#/aprovacaoAluno/bin/Debug/net8.0/aprovacaoAluno.runtimeconfig.json
+/home/hadassa/Documentos/exercicios-c#/aprovacaoAluno/bin/Debug/net8.0/aprovacaoAluno.dll
+/home/hadassa/Documentos/exercicios-c#/aprovacaoAluno/bin/Debug/net8.0/aprovacaoAluno.pdb
+/home/hadassa/Documentos/exercicios-c#/aprovacaoAluno/obj/Debug/net8.0/aprovacaoAluno.GeneratedMSBuildEditorConfig.editorconfig
+/home/hadassa/Documentos/exercicios-c#/aprovacaoAluno/obj/Debug/net8.0/aprovacaoAluno.AssemblyInfoInputs.cache
+/home/hadassa/Documentos/exercicios-c#/aprovacaoAluno/obj/Debug/net8.0/aprovacaoAluno.AssemblyInfo.cs
+/home/hadassa/Documentos/exercicios-c#/aprovacaoAluno/obj/Debug/net8.0/aprovacaoAluno.csproj.CoreCompileInputs.cache
+/home/hadassa/Documentos/exercicios-c#/aprovacaoAluno/obj/Debug/net8.0/aprovacaoAluno.sourcelink.json
+/home/hadassa/Documentos/exercicios-c#/aprovacaoAluno/obj/Debug/net8.0/aprovacaoAluno.dll
+/home/hadassa/Documentos/exercicios-c#/aprovacaoAluno/obj/Debug/net8.0/refint/aprovacaoAluno.dll
+/home/hadassa/Documentos/exercicios-c#/aprovacaoAluno/obj/Debug/net8.0/aprovacaoAluno.pdb
+/home/hadassa/Documentos/exercicios-c#/aprovacaoAluno/obj/Debug/net8.0/aprovacaoAluno.genruntimeconfig.cache
+/home/hadassa/Documentos/exercicios-c#/aprovacaoAluno/obj/Debug/net8.0/ref/aprovacaoAluno.dll
