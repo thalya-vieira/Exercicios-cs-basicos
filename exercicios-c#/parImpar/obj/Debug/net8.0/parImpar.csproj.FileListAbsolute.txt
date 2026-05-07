@@ -1,0 +1,14 @@
+/home/hadassa/Documentos/exercicios-c#/parImpar/bin/Debug/net8.0/parImpar
+/home/hadassa/Documentos/exercicios-c#/parImpar/bin/Debug/net8.0/parImpar.deps.json
+/home/hadassa/Documentos/exercicios-c#/parImpar/bin/Debug/net8.0/parImpar.runtimeconfig.json
+/home/hadassa/Documentos/exercicios-c#/parImpar/bin/Debug/net8.0/parImpar.dll
+/home/hadassa/Documentos/exercicios-c#/parImpar/bin/Debug/net8.0/parImpar.pdb
+/home/hadassa/Documentos/exercicios-c#/parImpar/obj/Debug/net8.0/parImpar.GeneratedMSBuildEditorConfig.editorconfig
+/home/hadassa/Documentos/exercicios-c#/parImpar/obj/Debug/net8.0/parImpar.AssemblyInfoInputs.cache
+/home/hadassa/Documentos/exercicios-c#/parImpar/obj/Debug/net8.0/parImpar.AssemblyInfo.cs
+/home/hadassa/Documentos/exercicios-c#/parImpar/obj/Debug/net8.0/parImpar.csproj.CoreCompileInputs.cache
+/home/hadassa/Documentos/exercicios-c#/parImpar/obj/Debug/net8.0/parImpar.dll
+/home/hadassa/Documentos/exercicios-c#/parImpar/obj/Debug/net8.0/refint/parImpar.dll
+/home/hadassa/Documentos/exercicios-c#/parImpar/obj/Debug/net8.0/parImpar.pdb
+/home/hadassa/Documentos/exercicios-c#/parImpar/obj/Debug/net8.0/parImpar.genruntimeconfig.cache
+/home/hadassa/Documentos/exercicios-c#/parImpar/obj/Debug/net8.0/ref/parImpar.dll
