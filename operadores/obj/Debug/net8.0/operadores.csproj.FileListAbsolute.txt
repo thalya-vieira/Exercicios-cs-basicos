@@ -1,0 +1,14 @@
+/home/hadassa/Documentos/exercicios-c#/operadores/bin/Debug/net8.0/operadores
+/home/hadassa/Documentos/exercicios-c#/operadores/bin/Debug/net8.0/operadores.deps.json
+/home/hadassa/Documentos/exercicios-c#/operadores/bin/Debug/net8.0/operadores.runtimeconfig.json
+/home/hadassa/Documentos/exercicios-c#/operadores/bin/Debug/net8.0/operadores.dll
+/home/hadassa/Documentos/exercicios-c#/operadores/bin/Debug/net8.0/operadores.pdb
+/home/hadassa/Documentos/exercicios-c#/operadores/obj/Debug/net8.0/operadores.GeneratedMSBuildEditorConfig.editorconfig
+/home/hadassa/Documentos/exercicios-c#/operadores/obj/Debug/net8.0/operadores.AssemblyInfoInputs.cache
+/home/hadassa/Documentos/exercicios-c#/operadores/obj/Debug/net8.0/operadores.AssemblyInfo.cs
+/home/hadassa/Documentos/exercicios-c#/operadores/obj/Debug/net8.0/operadores.csproj.CoreCompileInputs.cache
+/home/hadassa/Documentos/exercicios-c#/operadores/obj/Debug/net8.0/operadores.dll
+/home/hadassa/Documentos/exercicios-c#/operadores/obj/Debug/net8.0/refint/operadores.dll
+/home/hadassa/Documentos/exercicios-c#/operadores/obj/Debug/net8.0/operadores.pdb
+/home/hadassa/Documentos/exercicios-c#/operadores/obj/Debug/net8.0/operadores.genruntimeconfig.cache
+/home/hadassa/Documentos/exercicios-c#/operadores/obj/Debug/net8.0/ref/operadores.dll
