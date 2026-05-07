@@ -1,0 +1,15 @@
+/home/hadassa/Documentos/exercicios-c#/porcentagemSalario/bin/Debug/net8.0/porcentagemSalario
+/home/hadassa/Documentos/exercicios-c#/porcentagemSalario/bin/Debug/net8.0/porcentagemSalario.deps.json
+/home/hadassa/Documentos/exercicios-c#/porcentagemSalario/bin/Debug/net8.0/porcentagemSalario.runtimeconfig.json
+/home/hadassa/Documentos/exercicios-c#/porcentagemSalario/bin/Debug/net8.0/porcentagemSalario.dll
+/home/hadassa/Documentos/exercicios-c#/porcentagemSalario/bin/Debug/net8.0/porcentagemSalario.pdb
+/home/hadassa/Documentos/exercicios-c#/porcentagemSalario/obj/Debug/net8.0/porcentagemSalario.GeneratedMSBuildEditorConfig.editorconfig
+/home/hadassa/Documentos/exercicios-c#/porcentagemSalario/obj/Debug/net8.0/porcentagemSalario.AssemblyInfoInputs.cache
+/home/hadassa/Documentos/exercicios-c#/porcentagemSalario/obj/Debug/net8.0/porcentagemSalario.AssemblyInfo.cs
+/home/hadassa/Documentos/exercicios-c#/porcentagemSalario/obj/Debug/net8.0/porcentagemSalario.csproj.CoreCompileInputs.cache
+/home/hadassa/Documentos/exercicios-c#/porcentagemSalario/obj/Debug/net8.0/porcentagemSalario.sourcelink.json
+/home/hadassa/Documentos/exercicios-c#/porcentagemSalario/obj/Debug/net8.0/porcentagemSalario.dll
+/home/hadassa/Documentos/exercicios-c#/porcentagemSalario/obj/Debug/net8.0/refint/porcentagemSalario.dll
+/home/hadassa/Documentos/exercicios-c#/porcentagemSalario/obj/Debug/net8.0/porcentagemSalario.pdb
+/home/hadassa/Documentos/exercicios-c#/porcentagemSalario/obj/Debug/net8.0/porcentagemSalario.genruntimeconfig.cache
+/home/hadassa/Documentos/exercicios-c#/porcentagemSalario/obj/Debug/net8.0/ref/porcentagemSalario.dll
