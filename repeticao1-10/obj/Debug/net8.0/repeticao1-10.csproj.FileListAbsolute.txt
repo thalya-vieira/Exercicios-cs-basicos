@@ -1,0 +1,15 @@
+/home/hadassa/Documentos/exercicios-c#/repeticao1-10/bin/Debug/net8.0/repeticao1-10
+/home/hadassa/Documentos/exercicios-c#/repeticao1-10/bin/Debug/net8.0/repeticao1-10.deps.json
+/home/hadassa/Documentos/exercicios-c#/repeticao1-10/bin/Debug/net8.0/repeticao1-10.runtimeconfig.json
+/home/hadassa/Documentos/exercicios-c#/repeticao1-10/bin/Debug/net8.0/repeticao1-10.dll
+/home/hadassa/Documentos/exercicios-c#/repeticao1-10/bin/Debug/net8.0/repeticao1-10.pdb
+/home/hadassa/Documentos/exercicios-c#/repeticao1-10/obj/Debug/net8.0/repeticao1-10.GeneratedMSBuildEditorConfig.editorconfig
+/home/hadassa/Documentos/exercicios-c#/repeticao1-10/obj/Debug/net8.0/repeticao1-10.AssemblyInfoInputs.cache
+/home/hadassa/Documentos/exercicios-c#/repeticao1-10/obj/Debug/net8.0/repeticao1-10.AssemblyInfo.cs
+/home/hadassa/Documentos/exercicios-c#/repeticao1-10/obj/Debug/net8.0/repeticao1-10.csproj.CoreCompileInputs.cache
+/home/hadassa/Documentos/exercicios-c#/repeticao1-10/obj/Debug/net8.0/repeticao1-10.sourcelink.json
+/home/hadassa/Documentos/exercicios-c#/repeticao1-10/obj/Debug/net8.0/repeticao1-10.dll
+/home/hadassa/Documentos/exercicios-c#/repeticao1-10/obj/Debug/net8.0/refint/repeticao1-10.dll
+/home/hadassa/Documentos/exercicios-c#/repeticao1-10/obj/Debug/net8.0/repeticao1-10.pdb
+/home/hadassa/Documentos/exercicios-c#/repeticao1-10/obj/Debug/net8.0/repeticao1-10.genruntimeconfig.cache
+/home/hadassa/Documentos/exercicios-c#/repeticao1-10/obj/Debug/net8.0/ref/repeticao1-10.dll
