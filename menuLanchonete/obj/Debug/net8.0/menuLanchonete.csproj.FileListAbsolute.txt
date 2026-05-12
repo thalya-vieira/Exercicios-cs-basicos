@@ -1,0 +1,15 @@
+/home/hadassa/Documentos/exercicios-c#/menuLanchonete/bin/Debug/net8.0/menuLanchonete
+/home/hadassa/Documentos/exercicios-c#/menuLanchonete/bin/Debug/net8.0/menuLanchonete.deps.json
+/home/hadassa/Documentos/exercicios-c#/menuLanchonete/bin/Debug/net8.0/menuLanchonete.runtimeconfig.json
+/home/hadassa/Documentos/exercicios-c#/menuLanchonete/bin/Debug/net8.0/menuLanchonete.dll
+/home/hadassa/Documentos/exercicios-c#/menuLanchonete/bin/Debug/net8.0/menuLanchonete.pdb
+/home/hadassa/Documentos/exercicios-c#/menuLanchonete/obj/Debug/net8.0/menuLanchonete.GeneratedMSBuildEditorConfig.editorconfig
+/home/hadassa/Documentos/exercicios-c#/menuLanchonete/obj/Debug/net8.0/menuLanchonete.AssemblyInfoInputs.cache
+/home/hadassa/Documentos/exercicios-c#/menuLanchonete/obj/Debug/net8.0/menuLanchonete.AssemblyInfo.cs
+/home/hadassa/Documentos/exercicios-c#/menuLanchonete/obj/Debug/net8.0/menuLanchonete.csproj.CoreCompileInputs.cache
+/home/hadassa/Documentos/exercicios-c#/menuLanchonete/obj/Debug/net8.0/menuLanchonete.sourcelink.json
+/home/hadassa/Documentos/exercicios-c#/menuLanchonete/obj/Debug/net8.0/menuLanchonete.dll
+/home/hadassa/Documentos/exercicios-c#/menuLanchonete/obj/Debug/net8.0/refint/menuLanchonete.dll
+/home/hadassa/Documentos/exercicios-c#/menuLanchonete/obj/Debug/net8.0/menuLanchonete.pdb
+/home/hadassa/Documentos/exercicios-c#/menuLanchonete/obj/Debug/net8.0/menuLanchonete.genruntimeconfig.cache
+/home/hadassa/Documentos/exercicios-c#/menuLanchonete/obj/Debug/net8.0/ref/menuLanchonete.dll

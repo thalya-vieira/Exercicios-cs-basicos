@@ -1,0 +1,15 @@
+/home/hadassa/Documentos/exercicios-c#/Sistema_bancario/bin/Debug/net8.0/Sistema_bancario
+/home/hadassa/Documentos/exercicios-c#/Sistema_bancario/bin/Debug/net8.0/Sistema_bancario.deps.json
+/home/hadassa/Documentos/exercicios-c#/Sistema_bancario/bin/Debug/net8.0/Sistema_bancario.runtimeconfig.json
+/home/hadassa/Documentos/exercicios-c#/Sistema_bancario/bin/Debug/net8.0/Sistema_bancario.dll
+/home/hadassa/Documentos/exercicios-c#/Sistema_bancario/bin/Debug/net8.0/Sistema_bancario.pdb
+/home/hadassa/Documentos/exercicios-c#/Sistema_bancario/obj/Debug/net8.0/Sistema_bancario.GeneratedMSBuildEditorConfig.editorconfig
+/home/hadassa/Documentos/exercicios-c#/Sistema_bancario/obj/Debug/net8.0/Sistema_bancario.AssemblyInfoInputs.cache
+/home/hadassa/Documentos/exercicios-c#/Sistema_bancario/obj/Debug/net8.0/Sistema_bancario.AssemblyInfo.cs
+/home/hadassa/Documentos/exercicios-c#/Sistema_bancario/obj/Debug/net8.0/Sistema_bancario.csproj.CoreCompileInputs.cache
+/home/hadassa/Documentos/exercicios-c#/Sistema_bancario/obj/Debug/net8.0/Sistema_bancario.sourcelink.json
+/home/hadassa/Documentos/exercicios-c#/Sistema_bancario/obj/Debug/net8.0/Sistema_bancario.dll
+/home/hadassa/Documentos/exercicios-c#/Sistema_bancario/obj/Debug/net8.0/refint/Sistema_bancario.dll
+/home/hadassa/Documentos/exercicios-c#/Sistema_bancario/obj/Debug/net8.0/Sistema_bancario.pdb
+/home/hadassa/Documentos/exercicios-c#/Sistema_bancario/obj/Debug/net8.0/Sistema_bancario.genruntimeconfig.cache
+/home/hadassa/Documentos/exercicios-c#/Sistema_bancario/obj/Debug/net8.0/ref/Sistema_bancario.dll
