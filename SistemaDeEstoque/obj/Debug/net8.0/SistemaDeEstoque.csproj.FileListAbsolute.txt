@@ -1,0 +1,15 @@
+/home/hadassa/Documentos/exercicios-c#/SistemaDeEstoque/bin/Debug/net8.0/SistemaDeEstoque
+/home/hadassa/Documentos/exercicios-c#/SistemaDeEstoque/bin/Debug/net8.0/SistemaDeEstoque.deps.json
+/home/hadassa/Documentos/exercicios-c#/SistemaDeEstoque/bin/Debug/net8.0/SistemaDeEstoque.runtimeconfig.json
+/home/hadassa/Documentos/exercicios-c#/SistemaDeEstoque/bin/Debug/net8.0/SistemaDeEstoque.dll
+/home/hadassa/Documentos/exercicios-c#/SistemaDeEstoque/bin/Debug/net8.0/SistemaDeEstoque.pdb
+/home/hadassa/Documentos/exercicios-c#/SistemaDeEstoque/obj/Debug/net8.0/SistemaDeEstoque.GeneratedMSBuildEditorConfig.editorconfig
+/home/hadassa/Documentos/exercicios-c#/SistemaDeEstoque/obj/Debug/net8.0/SistemaDeEstoque.AssemblyInfoInputs.cache
+/home/hadassa/Documentos/exercicios-c#/SistemaDeEstoque/obj/Debug/net8.0/SistemaDeEstoque.AssemblyInfo.cs
+/home/hadassa/Documentos/exercicios-c#/SistemaDeEstoque/obj/Debug/net8.0/SistemaDeEstoque.csproj.CoreCompileInputs.cache
+/home/hadassa/Documentos/exercicios-c#/SistemaDeEstoque/obj/Debug/net8.0/SistemaDeEstoque.sourcelink.json
+/home/hadassa/Documentos/exercicios-c#/SistemaDeEstoque/obj/Debug/net8.0/SistemaDeEstoque.dll
+/home/hadassa/Documentos/exercicios-c#/SistemaDeEstoque/obj/Debug/net8.0/refint/SistemaDeEstoque.dll
+/home/hadassa/Documentos/exercicios-c#/SistemaDeEstoque/obj/Debug/net8.0/SistemaDeEstoque.pdb
+/home/hadassa/Documentos/exercicios-c#/SistemaDeEstoque/obj/Debug/net8.0/SistemaDeEstoque.genruntimeconfig.cache
+/home/hadassa/Documentos/exercicios-c#/SistemaDeEstoque/obj/Debug/net8.0/ref/SistemaDeEstoque.dll
